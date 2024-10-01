@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\programming\\DEPI\\DEPI_Propject_Company_System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6110DB-52F9-4A36-855A-43EAEBCB6F53}|DEPI_Propject_Company_System\\DEPI_Propject_Company_System.csproj|d:\\programming\\depi\\depi_propject_company_system\\depi_propject_company_system\\settings\\filesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6110DB-52F9-4A36-855A-43EAEBCB6F53}|DEPI_Propject_Company_System\\DEPI_Propject_Company_System.csproj|solutionrelative:depi_propject_company_system\\settings\\filesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6110DB-52F9-4A36-855A-43EAEBCB6F53}|DEPI_Propject_Company_System\\DEPI_Propject_Company_System.csproj|d:\\programming\\depi\\depi_propject_company_system\\depi_propject_company_system\\attributes\\uniquenameattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6110DB-52F9-4A36-855A-43EAEBCB6F53}|DEPI_Propject_Company_System\\DEPI_Propject_Company_System.csproj|solutionrelative:depi_propject_company_system\\attributes\\uniquenameattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6110DB-52F9-4A36-855A-43EAEBCB6F53}|DEPI_Propject_Company_System\\DEPI_Propject_Company_System.csproj|d:\\programming\\depi\\depi_propject_company_system\\depi_propject_company_system\\viewmodels\\createdepartmentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6110DB-52F9-4A36-855A-43EAEBCB6F53}|DEPI_Propject_Company_System\\DEPI_Propject_Company_System.csproj|solutionrelative:depi_propject_company_system\\viewmodels\\createdepartmentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileSettings.cs",
+              "DocumentMoniker": "D:\\programming\\DEPI\\DEPI_Propject_Company_System\\DEPI_Propject_Company_System\\Settings\\FileSettings.cs",
+              "RelativeDocumentMoniker": "DEPI_Propject_Company_System\\Settings\\FileSettings.cs",
+              "ToolTip": "D:\\programming\\DEPI\\DEPI_Propject_Company_System\\DEPI_Propject_Company_System\\Settings\\FileSettings.cs",
+              "RelativeToolTip": "DEPI_Propject_Company_System\\Settings\\FileSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T15:17:41.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UniqueNameAttribute.cs",
+              "DocumentMoniker": "D:\\programming\\DEPI\\DEPI_Propject_Company_System\\DEPI_Propject_Company_System\\Attributes\\UniqueNameAttribute.cs",
+              "RelativeDocumentMoniker": "DEPI_Propject_Company_System\\Attributes\\UniqueNameAttribute.cs",
+              "ToolTip": "D:\\programming\\DEPI\\DEPI_Propject_Company_System\\DEPI_Propject_Company_System\\Attributes\\UniqueNameAttribute.cs",
+              "RelativeToolTip": "DEPI_Propject_Company_System\\Attributes\\UniqueNameAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T15:17:17.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateDepartmentVM.cs",
+              "DocumentMoniker": "D:\\programming\\DEPI\\DEPI_Propject_Company_System\\DEPI_Propject_Company_System\\ViewModels\\CreateDepartmentVM.cs",
+              "RelativeDocumentMoniker": "DEPI_Propject_Company_System\\ViewModels\\CreateDepartmentVM.cs",
+              "ToolTip": "D:\\programming\\DEPI\\DEPI_Propject_Company_System\\DEPI_Propject_Company_System\\ViewModels\\CreateDepartmentVM.cs",
+              "RelativeToolTip": "DEPI_Propject_Company_System\\ViewModels\\CreateDepartmentVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T15:16:41.108Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
