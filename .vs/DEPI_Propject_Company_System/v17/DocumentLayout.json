@@ -3,28 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\DEPI_Propject_Company_System-main\\DEPI_Propject_Company_System-main\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6C6110DB-52F9-4A36-855A-43EAEBCB6F53}|DEPI_Propject_Company_System\\DEPI_Propject_Company_System.csproj|c:\\users\\lenovo\\desktop\\depi_propject_company_system-main\\depi_propject_company_system-main\\depi_propject_company_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6110DB-52F9-4A36-855A-43EAEBCB6F53}|DEPI_Propject_Company_System\\DEPI_Propject_Company_System.csproj|solutionrelative:depi_propject_company_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6C6110DB-52F9-4A36-855A-43EAEBCB6F53}|DEPI_Propject_Company_System\\DEPI_Propject_Company_System.csproj|c:\\users\\lenovo\\desktop\\depi_propject_company_system-main\\depi_propject_company_system-main\\depi_propject_company_system\\repositories\\dependentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C6110DB-52F9-4A36-855A-43EAEBCB6F53}|DEPI_Propject_Company_System\\DEPI_Propject_Company_System.csproj|solutionrelative:depi_propject_company_system\\repositories\\dependentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C6110DB-52F9-4A36-855A-43EAEBCB6F53}|DEPI_Propject_Company_System\\DEPI_Propject_Company_System.csproj|c:\\users\\lenovo\\desktop\\depi_propject_company_system-main\\depi_propject_company_system-main\\depi_propject_company_system\\models\\dependent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C6110DB-52F9-4A36-855A-43EAEBCB6F53}|DEPI_Propject_Company_System\\DEPI_Propject_Company_System.csproj|solutionrelative:depi_propject_company_system\\models\\dependent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C6110DB-52F9-4A36-855A-43EAEBCB6F53}|DEPI_Propject_Company_System\\DEPI_Propject_Company_System.csproj|c:\\users\\lenovo\\desktop\\depi_propject_company_system-main\\depi_propject_company_system-main\\depi_propject_company_system\\viewmodels\\dependentvm\\createdependentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C6110DB-52F9-4A36-855A-43EAEBCB6F53}|DEPI_Propject_Company_System\\DEPI_Propject_Company_System.csproj|solutionrelative:depi_propject_company_system\\viewmodels\\dependentvm\\createdependentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C6110DB-52F9-4A36-855A-43EAEBCB6F53}|DEPI_Propject_Company_System\\DEPI_Propject_Company_System.csproj|c:\\users\\lenovo\\desktop\\depi_propject_company_system-main\\depi_propject_company_system-main\\depi_propject_company_system\\viewmodels\\departmentvm\\createdepartmentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6110DB-52F9-4A36-855A-43EAEBCB6F53}|DEPI_Propject_Company_System\\DEPI_Propject_Company_System.csproj|solutionrelative:depi_propject_company_system\\viewmodels\\departmentvm\\createdepartmentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6C6110DB-52F9-4A36-855A-43EAEBCB6F53}|DEPI_Propject_Company_System\\DEPI_Propject_Company_System.csproj|c:\\users\\lenovo\\desktop\\depi_propject_company_system-main\\depi_propject_company_system-main\\depi_propject_company_system\\repositories\\interfaces\\idependentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C6110DB-52F9-4A36-855A-43EAEBCB6F53}|DEPI_Propject_Company_System\\DEPI_Propject_Company_System.csproj|solutionrelative:depi_propject_company_system\\repositories\\interfaces\\idependentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C6110DB-52F9-4A36-855A-43EAEBCB6F53}|DEPI_Propject_Company_System\\DEPI_Propject_Company_System.csproj|c:\\users\\lenovo\\desktop\\depi_propject_company_system-main\\depi_propject_company_system-main\\depi_propject_company_system\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C6110DB-52F9-4A36-855A-43EAEBCB6F53}|DEPI_Propject_Company_System\\DEPI_Propject_Company_System.csproj|solutionrelative:depi_propject_company_system\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C6110DB-52F9-4A36-855A-43EAEBCB6F53}|DEPI_Propject_Company_System\\DEPI_Propject_Company_System.csproj|c:\\users\\lenovo\\desktop\\depi_propject_company_system-main\\depi_propject_company_system-main\\depi_propject_company_system\\models\\dependent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6110DB-52F9-4A36-855A-43EAEBCB6F53}|DEPI_Propject_Company_System\\DEPI_Propject_Company_System.csproj|solutionrelative:depi_propject_company_system\\models\\dependent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C6110DB-52F9-4A36-855A-43EAEBCB6F53}|DEPI_Propject_Company_System\\DEPI_Propject_Company_System.csproj|c:\\users\\lenovo\\desktop\\depi_propject_company_system-main\\depi_propject_company_system-main\\depi_propject_company_system\\viewmodels\\departmentvm\\createdepartmentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C6110DB-52F9-4A36-855A-43EAEBCB6F53}|DEPI_Propject_Company_System\\DEPI_Propject_Company_System.csproj|solutionrelative:depi_propject_company_system\\viewmodels\\departmentvm\\createdepartmentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C6110DB-52F9-4A36-855A-43EAEBCB6F53}|DEPI_Propject_Company_System\\DEPI_Propject_Company_System.csproj|c:\\users\\lenovo\\desktop\\depi_propject_company_system-main\\depi_propject_company_system-main\\depi_propject_company_system\\viewmodels\\dependentvm\\displaydependentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6110DB-52F9-4A36-855A-43EAEBCB6F53}|DEPI_Propject_Company_System\\DEPI_Propject_Company_System.csproj|solutionrelative:depi_propject_company_system\\viewmodels\\dependentvm\\displaydependentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6110DB-52F9-4A36-855A-43EAEBCB6F53}|DEPI_Propject_Company_System\\DEPI_Propject_Company_System.csproj|c:\\users\\lenovo\\desktop\\depi_propject_company_system-main\\depi_propject_company_system-main\\depi_propject_company_system\\viewmodels\\dependentvm\\createdependentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6110DB-52F9-4A36-855A-43EAEBCB6F53}|DEPI_Propject_Company_System\\DEPI_Propject_Company_System.csproj|solutionrelative:depi_propject_company_system\\viewmodels\\dependentvm\\createdependentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6110DB-52F9-4A36-855A-43EAEBCB6F53}|DEPI_Propject_Company_System\\DEPI_Propject_Company_System.csproj|c:\\users\\lenovo\\desktop\\depi_propject_company_system-main\\depi_propject_company_system-main\\depi_propject_company_system\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6110DB-52F9-4A36-855A-43EAEBCB6F53}|DEPI_Propject_Company_System\\DEPI_Propject_Company_System.csproj|solutionrelative:depi_propject_company_system\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6C6110DB-52F9-4A36-855A-43EAEBCB6F53}|DEPI_Propject_Company_System\\DEPI_Propject_Company_System.csproj|c:\\users\\lenovo\\desktop\\depi_propject_company_system-main\\depi_propject_company_system-main\\depi_propject_company_system\\settings\\filesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -59,19 +67,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\DEPI_Propject_Company_System-main\\DEPI_Propject_Company_System-main\\DEPI_Propject_Company_System\\Program.cs",
+              "RelativeDocumentMoniker": "DEPI_Propject_Company_System\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\DEPI_Propject_Company_System-main\\DEPI_Propject_Company_System-main\\DEPI_Propject_Company_System\\Program.cs",
+              "RelativeToolTip": "DEPI_Propject_Company_System\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T18:23:37.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "DependentRepository.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\DEPI_Propject_Company_System-main\\DEPI_Propject_Company_System-main\\DEPI_Propject_Company_System\\Repositories\\DependentRepository.cs",
               "RelativeDocumentMoniker": "DEPI_Propject_Company_System\\Repositories\\DependentRepository.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\DEPI_Propject_Company_System-main\\DEPI_Propject_Company_System-main\\DEPI_Propject_Company_System\\Repositories\\DependentRepository.cs",
               "RelativeToolTip": "DEPI_Propject_Company_System\\Repositories\\DependentRepository.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAAACUAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-01T12:13:12.22Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "CreateDepartmentVM.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\DEPI_Propject_Company_System-main\\DEPI_Propject_Company_System-main\\DEPI_Propject_Company_System\\ViewModels\\DepartmentVM\\CreateDepartmentVM.cs",
               "RelativeDocumentMoniker": "DEPI_Propject_Company_System\\ViewModels\\DepartmentVM\\CreateDepartmentVM.cs",
@@ -84,13 +105,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "CreateDependentVM.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\DEPI_Propject_Company_System-main\\DEPI_Propject_Company_System-main\\DEPI_Propject_Company_System\\ViewModels\\DependentVM\\CreateDependentVM.cs",
               "RelativeDocumentMoniker": "DEPI_Propject_Company_System\\ViewModels\\DependentVM\\CreateDependentVM.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\DEPI_Propject_Company_System-main\\DEPI_Propject_Company_System-main\\DEPI_Propject_Company_System\\ViewModels\\DependentVM\\CreateDependentVM.cs",
               "RelativeToolTip": "DEPI_Propject_Company_System\\ViewModels\\DependentVM\\CreateDependentVM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAYAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-01T10:55:38.747Z",
               "EditorCaption": ""
@@ -103,7 +124,7 @@
               "RelativeDocumentMoniker": "DEPI_Propject_Company_System\\Repositories\\Interfaces\\IDependentRepository.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\DEPI_Propject_Company_System-main\\DEPI_Propject_Company_System-main\\DEPI_Propject_Company_System\\Repositories\\Interfaces\\IDependentRepository.cs",
               "RelativeToolTip": "DEPI_Propject_Company_System\\Repositories\\Interfaces\\IDependentRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-01T10:49:37.587Z",
               "EditorCaption": ""
@@ -111,32 +132,44 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "DepartmentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\DEPI_Propject_Company_System-main\\DEPI_Propject_Company_System-main\\DEPI_Propject_Company_System\\Repositories\\DepartmentRepository.cs",
-              "RelativeDocumentMoniker": "DEPI_Propject_Company_System\\Repositories\\DepartmentRepository.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\DEPI_Propject_Company_System-main\\DEPI_Propject_Company_System-main\\DEPI_Propject_Company_System\\Repositories\\DepartmentRepository.cs",
-              "RelativeToolTip": "DEPI_Propject_Company_System\\Repositories\\DepartmentRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T08:47:19.152Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Dependent.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\DEPI_Propject_Company_System-main\\DEPI_Propject_Company_System-main\\DEPI_Propject_Company_System\\Models\\Dependent.cs",
               "RelativeDocumentMoniker": "DEPI_Propject_Company_System\\Models\\Dependent.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\DEPI_Propject_Company_System-main\\DEPI_Propject_Company_System-main\\DEPI_Propject_Company_System\\Models\\Dependent.cs",
               "RelativeToolTip": "DEPI_Propject_Company_System\\Models\\Dependent.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-01T10:48:09.396Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
+              "Title": "DisplayDependentVM.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\DEPI_Propject_Company_System-main\\DEPI_Propject_Company_System-main\\DEPI_Propject_Company_System\\ViewModels\\DependentVM\\DisplayDependentVM.cs",
+              "RelativeDocumentMoniker": "DEPI_Propject_Company_System\\ViewModels\\DependentVM\\DisplayDependentVM.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\DEPI_Propject_Company_System-main\\DEPI_Propject_Company_System-main\\DEPI_Propject_Company_System\\ViewModels\\DependentVM\\DisplayDependentVM.cs",
+              "RelativeToolTip": "DEPI_Propject_Company_System\\ViewModels\\DependentVM\\DisplayDependentVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T17:24:12.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DepartmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\DEPI_Propject_Company_System-main\\DEPI_Propject_Company_System-main\\DEPI_Propject_Company_System\\Repositories\\DepartmentRepository.cs",
+              "RelativeDocumentMoniker": "DEPI_Propject_Company_System\\Repositories\\DepartmentRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\DEPI_Propject_Company_System-main\\DEPI_Propject_Company_System-main\\DEPI_Propject_Company_System\\Repositories\\DepartmentRepository.cs",
+              "RelativeToolTip": "DEPI_Propject_Company_System\\Repositories\\DepartmentRepository.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAAFsAAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T08:47:19.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "FileSettings.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\DEPI_Propject_Company_System-main\\DEPI_Propject_Company_System-main\\DEPI_Propject_Company_System\\Settings\\FileSettings.cs",
               "RelativeDocumentMoniker": "DEPI_Propject_Company_System\\Settings\\FileSettings.cs",
@@ -144,12 +177,11 @@
               "RelativeToolTip": "DEPI_Propject_Company_System\\Settings\\FileSettings.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T12:06:56.293Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T12:06:56.293Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "MaxFileSizeAttribute.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\DEPI_Propject_Company_System-main\\DEPI_Propject_Company_System-main\\DEPI_Propject_Company_System\\Attributes\\MaxFileSizeAttribute.cs",
               "RelativeDocumentMoniker": "DEPI_Propject_Company_System\\Attributes\\MaxFileSizeAttribute.cs",
@@ -157,12 +189,11 @@
               "RelativeToolTip": "DEPI_Propject_Company_System\\Attributes\\MaxFileSizeAttribute.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T12:04:53.536Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T12:04:53.536Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "AllowedExtensionsAttribute.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\DEPI_Propject_Company_System-main\\DEPI_Propject_Company_System-main\\DEPI_Propject_Company_System\\Attributes\\AllowedExtensionsAttribute.cs",
               "RelativeDocumentMoniker": "DEPI_Propject_Company_System\\Attributes\\AllowedExtensionsAttribute.cs",
@@ -170,12 +201,11 @@
               "RelativeToolTip": "DEPI_Propject_Company_System\\Attributes\\AllowedExtensionsAttribute.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T12:04:05.442Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T12:04:05.442Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "IDepartmentRepository.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\DEPI_Propject_Company_System-main\\DEPI_Propject_Company_System-main\\DEPI_Propject_Company_System\\Repositories\\Interfaces\\IDepartmentRepository.cs",
               "RelativeDocumentMoniker": "DEPI_Propject_Company_System\\Repositories\\Interfaces\\IDepartmentRepository.cs",
@@ -183,12 +213,11 @@
               "RelativeToolTip": "DEPI_Propject_Company_System\\Repositories\\Interfaces\\IDepartmentRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T09:28:19.059Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T09:28:19.059Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "CRUD.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\DEPI_Propject_Company_System-main\\DEPI_Propject_Company_System-main\\DEPI_Propject_Company_System\\Repositories\\CRUD.cs",
               "RelativeDocumentMoniker": "DEPI_Propject_Company_System\\Repositories\\CRUD.cs",
@@ -196,8 +225,7 @@
               "RelativeToolTip": "DEPI_Propject_Company_System\\Repositories\\CRUD.cs",
               "ViewState": "AQIAABkAAAAAAAAAAAAAACEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T16:22:26.961Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-30T16:22:26.961Z"
             }
           ]
         }

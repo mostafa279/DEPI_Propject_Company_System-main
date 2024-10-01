@@ -85,13 +85,10 @@ namespace DEPI_Propject_Company_System.Repositories
             DeptFromDb.Name = DepartmentFromReq.Name;
             DeptFromDb.Location = DepartmentFromReq.Location;
             DeptFromDb.ManagerId = DepartmentFromReq.ManagerId;
-            DeptFromDb.Employees = DepartmentFromReq.SelectedManagers.Select((d => new Employee { Id = d })).ToList();
             _context.SaveChanges();
             return true;
         }
         public IEnumerable<SelectListItem> GetSelectList()
-          => _context.Employees.Select(x => new SelectListItem { Value= x.Id.ToString(),Text=x.Name });   
-
-        
+          => _context.Employees.Select(x => new SelectListItem { Value= x.Id.ToString(),Text=x.Name });    
     }
 }

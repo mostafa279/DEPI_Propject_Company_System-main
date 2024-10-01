@@ -2,6 +2,8 @@ using DEPI_Propject_Company_System.Data;
 using DEPI_Propject_Company_System.Models;
 using DEPI_Propject_Company_System.Repositoories;
 using DEPI_Propject_Company_System.Repositoories.Interfaces;
+using DEPI_Propject_Company_System.Repositories;
+using DEPI_Propject_Company_System.Repositories.Interfaces;
 using Microsoft.EntityFrameworkCore;
 
 namespace DEPI_Propject_Company_System
@@ -28,6 +30,8 @@ namespace DEPI_Propject_Company_System
             builder.Services.AddScoped<ICRUD<Employee>, CRUD<Employee>>();
             builder.Services.AddScoped<ICRUD<EmployeeProjects>, CRUD<EmployeeProjects>>();
             builder.Services.AddScoped<ICRUD<Project>, CRUD<Project>>();
+            builder.Services.AddScoped<IDepartmentRepository,DepartmentRepository>();
+            builder.Services.AddScoped<IDependentRepository, DependentRepository>();
 
             var app = builder.Build();
 
